@@ -1,6 +1,6 @@
 alert('hello, world!');
 
-// Função calcular
+// Função para somar
 function somar(a, b){
   return console.log(a+b)
 }
