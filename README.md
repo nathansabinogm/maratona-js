@@ -1,1 +1,1 @@
-### Maratona Javascript
+### Maratona de Fundamentos Javascript
