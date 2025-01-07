@@ -13,4 +13,6 @@ function stringImg(imgFomart){
     return imgFomart.replace(/\w\.jpg/gi, 'W.jpg');
 }
 
+console.log('teste')
+
 console.log(stringImg("img.jpg"))
