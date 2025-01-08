@@ -15,4 +15,7 @@ function stringImg(imgFomart){
 
 console.log('teste')
 
-console.log(stringImg("img.jpg"))
+// função auto invocavel
+(function somar(a=10, b=5){
+  console.log(a+b);
+})();
