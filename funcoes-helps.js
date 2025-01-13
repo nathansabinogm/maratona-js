@@ -7,7 +7,7 @@ function moeda(valor){
 
 //console.log(moeda(100.99));
 
-// saida formatado
+// Saida formatado
 
 function stringImg(imgFomart){
     return imgFomart.replace(/\w\.jpg/gi, 'W.jpg');
@@ -15,7 +15,7 @@ function stringImg(imgFomart){
 
 console.log('teste')
 
-// função auto invocavel
+// Função auto invocavel
 (function somar(a=10, b=5){
   console.log(a+b);
 })();
