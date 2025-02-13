@@ -1,4 +1,7 @@
-alert('hello, world!');
+alert('hello, world 2!');
+
+var idade = 12
+var nome = "Nathan"
 
 // Função para somar
 function somar(a, b){
